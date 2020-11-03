@@ -2,3 +2,25 @@ h1 {
     font-size: 2em;
     color: #F80206;
 }
+
+.Tanjiro {
+    background-color: blue;
+}
+
+.Inosuke {
+    background-color: green;
+}
+
+.Zenitsu {
+    background-color: gold;
+}
+
+.Nezuko {
+    background-color: hotpink;
+
+}
+
+td a {
+    color: white;
+    text-decoration: none;
+}
